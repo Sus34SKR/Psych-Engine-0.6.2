@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Asfront.png">
+<SubTexture name="Asfu0002.png0000" x="0" y="0" width="322" height="530" frameX="-328" frameY="-10" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfu0003.png0000" x="322" y="0" width="334" height="526" frameX="-326" frameY="-14" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfu0004.png0000" x="656" y="0" width="337" height="522" frameX="-322" frameY="-18" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfu0005.png0000" x="994" y="0" width="337" height="521" frameX="-322" frameY="-19" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfu0006.png0000" x="0" y="530" width="337" height="521" frameX="-322" frameY="-19" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfu0001.png0000" x="337" y="530" width="306" height="517" frameX="-329" frameY="-23" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfu0007.png0000" x="643" y="530" width="356" height="514" frameX="-314" frameY="-26" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfr0007.png0000" x="1331" y="0" width="371" height="491" frameX="-329" frameY="-49" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfr0005.png0000" x="1331" y="491" width="341" height="488" frameX="-329" frameY="-52" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfr0006.png0000" x="0" y="1051" width="341" height="488" frameX="-329" frameY="-52" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfr0001.png0000" x="999" y="530" width="324" height="487" frameX="-329" frameY="-53" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfr0004.png0000" x="341" y="1051" width="341" height="486" frameX="-329" frameY="-54" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfr0003.png0000" x="683" y="1051" width="328" height="484" frameX="-330" frameY="-56" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfl0007.png0000" x="1011" y="1051" width="330" height="483" frameX="-294" frameY="-57" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfr0002.png0000" x="1341" y="1051" width="317" height="483" frameX="-330" frameY="-57" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfd0005.png0000" x="1474" y="2019" width="336" height="449" frameX="-324" frameY="-90" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfl0004.png0000" x="1702" y="0" width="331" height="481" frameX="-301" frameY="-59" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfd0006.png0000" x="1811" y="2019" width="336" height="448" frameX="-324" frameY="-90" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfl0005.png0000" x="1702" y="481" width="331" height="481" frameX="-301" frameY="-59" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfl0006.png0000" x="1702" y="962" width="331" height="481" frameX="-301" frameY="-59" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfd0007.png0000" x="739" y="2019" width="333" height="460" frameX="-327" frameY="-79" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfd0001.png0000" x="1073" y="2019" width="401" height="457" frameX="-312" frameY="-81" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfl0003.png0000" x="0" y="1539" width="344" height="480" frameX="-302" frameY="-60" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0001.png0000" x="344" y="1539" width="356" height="479" frameX="-322" frameY="-60" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfl0002.png0000" x="700" y="1539" width="356" height="479" frameX="-301" frameY="-61" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0008.png0000" x="1056" y="1539" width="339" height="479" frameX="-329" frameY="-61" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0009.png0000" x="1395" y="1539" width="339" height="479" frameX="-329" frameY="-61" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0010.png0000" x="2034" y="0" width="339" height="479" frameX="-329" frameY="-61" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0011.png0000" x="2034" y="479" width="339" height="479" frameX="-329" frameY="-61" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0012.png0000" x="2034" y="958" width="339" height="479" frameX="-329" frameY="-61" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0007.png0000" x="2034" y="1437" width="339" height="478" frameX="-329" frameY="-62" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfl0001.png0000" x="2373" y="0" width="378" height="477" frameX="-305" frameY="-63" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0006.png0000" x="2373" y="477" width="339" height="476" frameX="-329" frameY="-64" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0002.png0000" x="0" y="2019" width="380" height="474" frameX="-312" frameY="-66" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0005.png0000" x="2373" y="953" width="342" height="474" frameX="-328" frameY="-66" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0004.png0000" x="2373" y="1427" width="352" height="471" frameX="-327" frameY="-69" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfi0003.png0000" x="380" y="2019" width="359" height="469" frameX="-325" frameY="-71" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfd0004.png0000" x="2147" y="2019" width="344" height="444" frameX="-324" frameY="-95" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfd0002.png0000" x="2751" y="0" width="373" height="442" frameX="-313" frameY="-95" frameWidth="960" frameHeight="540" />
+<SubTexture name="Asfd0003.png0000" x="2751" y="442" width="359" height="439" frameX="-320" frameY="-100" frameWidth="960" frameHeight="540" />
+</TextureAtlas>
